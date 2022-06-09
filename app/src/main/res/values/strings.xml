@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SimpleCalc_amirbek</string>
+    <string name="minus">-</string>
+    <string name="plus_button">+</string>
+    <string name="zarb_button">*</string>
+    <string name="taqsim_button">/</string>
+</resources>
